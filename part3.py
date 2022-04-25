@@ -60,3 +60,4 @@ print("Printing statistics for the solver")
 print(s.statistics())
 print("-----------------------------------------------------------------")
 print()
+

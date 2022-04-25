@@ -14,3 +14,5 @@ To run the program:
 
 Output :
     Gives output for the SAT problem with all statistics of the solver for all parts.
+
+    
